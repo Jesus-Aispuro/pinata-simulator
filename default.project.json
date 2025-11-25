@@ -1,0 +1,29 @@
+{
+    "name": "PinataSimulator",
+    "tree": {
+        "$className": "DataModel",
+        "ServerScriptService": {
+            "$path": "src/ServerScriptService"
+        },
+        "ReplicatedStorage": {
+            "$path": "src/ReplicatedStorage"
+        },
+        "StarterPlayer": {
+            "StarterCharacterScripts": {
+                "$path": "src/StarterPlayer/StarterCharacterScripts"
+            },
+            "StarterPlayerScripts": {
+                "$path": "src/StarterPlayer/StarterPlayerScripts"
+            }
+        },
+        "Modules": {
+            "$path": "src/Modules"
+        },
+        "Config": {
+            "$path": "src/Config"
+        },
+        "Shared": {
+            "$path": "src/Shared"
+        }
+    }
+}
